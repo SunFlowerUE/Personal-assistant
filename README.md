@@ -58,10 +58,10 @@ life-ledger 管**数据与流程**，三个专科管**领域知识**。可以只
 
 安装：
 
-    npx skills add <owner>/life-ledger@life-ledger
-    npx skills add <owner>/life-ledger@strength-coach
-    npx skills add <owner>/life-ledger@sleep-doctor
-    npx skills add <owner>/life-ledger@nutrition-doctor
+    npx skills add SunFlowerUE/Personal-assistant@life-ledger
+    npx skills add SunFlowerUE/Personal-assistant@strength-coach
+    npx skills add SunFlowerUE/Personal-assistant@sleep-doctor
+    npx skills add SunFlowerUE/Personal-assistant@nutrition-doctor
 
 也可以 clone 后把对应目录拷进你的 skills 目录（Codex：`~/.codex/skills/`）。
 
